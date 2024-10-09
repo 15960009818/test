@@ -15,5 +15,6 @@ int main(){
     cout<<"hello world"<<endl;
     cout<<"hello,world2"<<endl;
     cout<<"hello,user2 world"<<endl;
+    cout<<"main-user1 test"<<endl;
     return 0;
 }
